@@ -12,3 +12,5 @@ Gemfile.lock
 # Ruby
 .ruby-version
 .rvmrc
+
+.idea
